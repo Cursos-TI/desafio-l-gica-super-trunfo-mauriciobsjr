@@ -14,8 +14,7 @@ int main (){
     printf("2. Regras do jogo\n");
     printf("3. Sair do Jogo\n");
     printf("Selecione uma opção: ");
-    scanf("%d", &opcao);//O jogador escolherá qual item do men
-    u ele quer ir
+    scanf("%d", &opcao);//O jogador escolherá qual item do menu ele quer ir
 
     switch (opcao)
     {
